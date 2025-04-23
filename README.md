@@ -4,7 +4,7 @@ Full Stack Developer.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=15DanBerG&theme=dark&show_icons=true)
 
-## Technologies
+## Technologies a
 
 <div style="display: inline_block"><br/> 
   
