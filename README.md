@@ -1,13 +1,15 @@
-## Hello 👀
+## Hi 👀
 
 Developer.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=15DanBerG&theme=dark&show_icons=true)
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=15DanBerG&theme=dark&show_icons=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=15DanBerG&layout=donut&theme=dark"/>
+</div>
 
 ## Technologies
 
 <div style="display: inline_block"><br/> 
-  
   <img align="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
   <img align="center" alt="Go" src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
   <img align="center" alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
