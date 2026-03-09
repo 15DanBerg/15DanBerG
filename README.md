@@ -1,18 +1,24 @@
 ## Hi 👀
+Backend Developer
 
-backend developer.
+---
 
-## Technologies
+## My Stack
 
-<div style="display: inline_block"><br/> 
-  <img align="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img align="center" alt="Go" src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
-  <img align="center" alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
-  <img align="center" alt="Amazon AWS" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
-  <img align="center" alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" /> 
-  <img align="center" alt="Java" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img align="center" alt="Java" src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
-</div>
+| **#** | **Technologies** |
+|------|------------------|
+| **Languages** | ![Languages](https://skillicons.dev/icons?i=java,python) |
+| **Frameworks** | ![Frameworks](https://skillicons.dev/icons?i=spring) |
+| **Databases** | ![Databases](https://skillicons.dev/icons?i=mysql,postgres,mongodb) |
+| **Cloud** | ![Cloud](https://skillicons.dev/icons?i=aws) |
+| **DevOps** | ![DevOps](https://skillicons.dev/icons?i=docker,kubernetes,nginx) |
+| **Messaging** | ![Messaging](https://skillicons.dev/icons?i=rabbitmq) |
+| **Tools** | ![Tools](https://skillicons.dev/icons?i=vscode,githubactions) |
+| **Auth** | ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)|
+| **OS** | ![OS](https://skillicons.dev/icons?i=windows,linux,ubuntu) |
 
+---
 
+## Currently studying
 
+![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
