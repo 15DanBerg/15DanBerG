@@ -1,8 +1,11 @@
 ## Hi 👀
-Backend Developer
-
----
-
+```json
+{
+  "name": "Daniel Berg",
+  "role": "Backend Developer",
+  "focus": ["Automation", "Backend Development"]
+}
+```
 ## My Stack
 
 | **#** | **Technologies** |
