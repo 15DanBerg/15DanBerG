@@ -26,3 +26,6 @@
 ## Currently studying
 
 ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
+
+
+![Snake animation](https://github.com/SEU_USER/SEU_USER/blob/output/github-contribution-grid-snake.svg)
